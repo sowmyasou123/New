@@ -7,6 +7,7 @@ public class NewTest {
   public void f() {
 	  System.out.println("this is at test");
 	  System.out.println("this is at test2");
+	  System.out.println("this is at test3");
 	  
   }
 }
