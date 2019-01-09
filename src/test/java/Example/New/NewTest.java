@@ -6,5 +6,7 @@ public class NewTest {
   @Test
   public void f() {
 	  System.out.println("this is at test");
+	  System.out.println("this is at test2");
+	  
   }
 }
